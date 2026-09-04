@@ -226,20 +226,33 @@ Developing an AI-driven IoT security project focused on:
 
 <td width="50%" valign="top">
 
+
 # 🎓 Education
 
-**Sri Sri University — Cuttack, Odisha**
+<table>
+<tr>
+<td width="120" valign="middle">
 
+<img src="./assets/sri-sri-university.png" width="100" alt="Sri Sri University">
+
+</td>
+
+<td valign="middle">
+
+### Sri Sri University
 **B.Tech — Computer Science & Engineering**  
-Specialization: **Cyber Security & Cyber Defense**
+**Specialization:** Cyber Security & Cyber Defense  
 
-**2023 – 2027 (Expected)**  
-**CGPA: 8.3**
+📅 **2023 – 2027 (Expected)**  
+📊 **CGPA: 8.3**  
+📍 Cuttack, Odisha
+
+**Relevant Coursework:**  
+Operating Systems • DBMS • Algorithms • Computer Networks • Machine Learning • Cryptography
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 🏆 Highlights
