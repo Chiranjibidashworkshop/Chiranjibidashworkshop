@@ -218,7 +218,7 @@ Developing an AI-driven IoT security project focused on:
 
 # 📜 Certifications
 
-🟡 **Cisco CCNA 200-301** — In Progress  
+🟡 **Cisco CCNA 200-301** — 07 Sept 2026 - 07 Sept 2029   
 🟡 **Microsoft MS-102** — In Progress  
 🟡 **CompTIA A+** — In Progress
 
