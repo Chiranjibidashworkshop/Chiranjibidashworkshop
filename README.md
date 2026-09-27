@@ -53,7 +53,7 @@ IT Support & Systems Administration
 TryHackMe & Hack The Box
 
 📚 **Certifications in Progress**  
-CCNA 200-301 • MS-102 • CompTIA A+
+• MS-102 • CompTIA A+
 
 </td>
 
