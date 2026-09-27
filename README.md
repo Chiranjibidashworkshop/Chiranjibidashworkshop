@@ -134,9 +134,9 @@ SOC-oriented project focused on **security monitoring and threat detection**.
 
 <td width="50%" valign="top">
 
-## 🪤 AI-Based IoT Honeypot Deception System
+## 🪤 ALPHA
 
-### 🚧 Completed
+### 🚧 AI-Based IoT Honeypot Deception System
 
 Developing an AI-driven IoT security project focused on:
 
