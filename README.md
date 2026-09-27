@@ -136,7 +136,7 @@ SOC-oriented project focused on **security monitoring and threat detection**.
 
 ## 🪤 AI-Based IoT Honeypot Deception System
 
-### 🚧 Ongoing
+### 🚧 Completed
 
 Developing an AI-driven IoT security project focused on:
 
@@ -145,6 +145,8 @@ Developing an AI-driven IoT security project focused on:
 - Anomaly analysis
 - Security monitoring
 - Intelligent cybersecurity workflows
+  
+🔗 [Repository](https://github.com/Chiranjibidashworkshop/Autonomous-Ai-iot-Honeypot-SOC)
 
 </td>
 </tr>
